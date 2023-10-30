@@ -7,14 +7,14 @@ Este es mi 1 proyecto de git
 M.A
 ---
 - `git log` del 30/10/2023
-- **commit 690880abea03aea2eb14d5efabfac8978e4165df (HEAD -> master, origin/master)
+- commit 690880abea03aea2eb14d5efabfac8978e4165df (HEAD -> master, origin/master)
 Author: Miguel Anthony <miguelanthony.portillo.costa@gmail.com>
 Date:   Mon Oct 30 16:07:04 2023 +0100
 
-    -- read.md modificado por error de código
+    read.md modificado por error de código
 
 - commit 9dde49a85f66e3a1fbeed6ea576df851063da76f
 Author: Miguel Anthony <miguelanthony.portillo.costa@gmail.com>
 Date:   Mon Oct 30 16:04:13 2023 +0100
 
-    -- Añadido readme.md**
+    Añadido readme.md**
